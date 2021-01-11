@@ -1,0 +1,58 @@
+C:\Users\Georgio\source\repos\GUI assignment\GUI assignment\bin\Debug\GUI assignment.exe.config
+C:\Users\Georgio\source\repos\GUI assignment\GUI assignment\bin\Debug\GUI assignment.exe
+C:\Users\Georgio\source\repos\GUI assignment\GUI assignment\bin\Debug\GUI assignment.pdb
+C:\Users\Georgio\source\repos\GUI assignment\GUI assignment\obj\Debug\GUI assignment.csprojAssemblyReference.cache
+C:\Users\Georgio\source\repos\GUI assignment\GUI assignment\obj\Debug\GUI_assignment.Form1.resources
+C:\Users\Georgio\source\repos\GUI assignment\GUI assignment\obj\Debug\GUI_assignment.Properties.Resources.resources
+C:\Users\Georgio\source\repos\GUI assignment\GUI assignment\obj\Debug\GUI assignment.csproj.GenerateResource.cache
+C:\Users\Georgio\source\repos\GUI assignment\GUI assignment\obj\Debug\GUI assignment.csproj.CoreCompileInputs.cache
+C:\Users\Georgio\source\repos\GUI assignment\GUI assignment\obj\Debug\GUI assignment.exe
+C:\Users\Georgio\source\repos\GUI assignment\GUI assignment\obj\Debug\GUI assignment.pdb
+C:\Users\Kasper\source\repos\GUI assignment\GUI assignment\bin\Debug\GUI assignment.exe.config
+C:\Users\Kasper\source\repos\GUI assignment\GUI assignment\bin\Debug\GUI assignment.exe
+C:\Users\Kasper\source\repos\GUI assignment\GUI assignment\bin\Debug\GUI assignment.pdb
+C:\Users\Kasper\source\repos\GUI assignment\GUI assignment\obj\Debug\GUI assignment.csprojResolveAssemblyReference.cache
+C:\Users\Kasper\source\repos\GUI assignment\GUI assignment\obj\Debug\GUI_assignment.Form1.resources
+C:\Users\Kasper\source\repos\GUI assignment\GUI assignment\obj\Debug\GUI_assignment.Properties.Resources.resources
+C:\Users\Kasper\source\repos\GUI assignment\GUI assignment\obj\Debug\GUI assignment.csproj.GenerateResource.cache
+C:\Users\Kasper\source\repos\GUI assignment\GUI assignment\obj\Debug\GUI assignment.csproj.CoreCompileInputs.cache
+C:\Users\Kasper\source\repos\GUI assignment\GUI assignment\obj\Debug\GUI assignment.exe
+C:\Users\Kasper\source\repos\GUI assignment\GUI assignment\obj\Debug\GUI assignment.pdb
+C:\Users\Georgio\source\repos\GUI assignment LATEST 12 4 2018\GUI assignment\bin\Debug\GUI assignment.exe.config
+C:\Users\Georgio\source\repos\GUI assignment LATEST 12 4 2018\GUI assignment\bin\Debug\GUI assignment.exe
+C:\Users\Georgio\source\repos\GUI assignment LATEST 12 4 2018\GUI assignment\bin\Debug\GUI assignment.pdb
+C:\Users\Georgio\source\repos\GUI assignment LATEST 12 4 2018\GUI assignment\obj\Debug\GUI assignment.csprojAssemblyReference.cache
+C:\Users\Georgio\source\repos\GUI assignment LATEST 12 4 2018\GUI assignment\obj\Debug\GUI_assignment.Form1.resources
+C:\Users\Georgio\source\repos\GUI assignment LATEST 12 4 2018\GUI assignment\obj\Debug\GUI_assignment.Properties.Resources.resources
+C:\Users\Georgio\source\repos\GUI assignment LATEST 12 4 2018\GUI assignment\obj\Debug\GUI assignment.csproj.GenerateResource.cache
+C:\Users\Georgio\source\repos\GUI assignment LATEST 12 4 2018\GUI assignment\obj\Debug\GUI assignment.csproj.CoreCompileInputs.cache
+C:\Users\Georgio\source\repos\GUI assignment LATEST 12 4 2018\GUI assignment\obj\Debug\GUI assignment.exe
+C:\Users\Georgio\source\repos\GUI assignment LATEST 12 4 2018\GUI assignment\obj\Debug\GUI assignment.pdb
+C:\Users\Kasper\source\repos\GUI assignment LATEST 12 6 2018 FINAL\GUI assignment\bin\Debug\GUI assignment.exe.config
+C:\Users\Kasper\source\repos\GUI assignment LATEST 12 6 2018 FINAL\GUI assignment\bin\Debug\GUI assignment.exe
+C:\Users\Kasper\source\repos\GUI assignment LATEST 12 6 2018 FINAL\GUI assignment\bin\Debug\GUI assignment.pdb
+C:\Users\Kasper\source\repos\GUI assignment LATEST 12 6 2018 FINAL\GUI assignment\obj\Debug\GUI assignment.csprojResolveAssemblyReference.cache
+C:\Users\Kasper\source\repos\GUI assignment LATEST 12 6 2018 FINAL\GUI assignment\obj\Debug\GUI_assignment.Form1.resources
+C:\Users\Kasper\source\repos\GUI assignment LATEST 12 6 2018 FINAL\GUI assignment\obj\Debug\GUI_assignment.Properties.Resources.resources
+C:\Users\Kasper\source\repos\GUI assignment LATEST 12 6 2018 FINAL\GUI assignment\obj\Debug\GUI assignment.csproj.GenerateResource.cache
+C:\Users\Kasper\source\repos\GUI assignment LATEST 12 6 2018 FINAL\GUI assignment\obj\Debug\GUI assignment.csproj.CoreCompileInputs.cache
+C:\Users\Kasper\source\repos\GUI assignment LATEST 12 6 2018 FINAL\GUI assignment\obj\Debug\GUI assignment.exe
+C:\Users\Kasper\source\repos\GUI assignment LATEST 12 6 2018 FINAL\GUI assignment\obj\Debug\GUI assignment.pdb
+C:\Users\Kasper\source\repos\GUI assignment LATEST 12 6 2018 FINAL\GUI assignment\bin\Debug\GUI assignment.exe.manifest
+C:\Users\Kasper\source\repos\GUI assignment LATEST 12 6 2018 FINAL\GUI assignment\bin\Debug\GUI assignment.application
+C:\Users\Kasper\source\repos\GUI assignment LATEST 12 6 2018 FINAL\GUI assignment\obj\Debug\GUI assignment.exe.manifest
+C:\Users\Kasper\source\repos\GUI assignment LATEST 12 6 2018 FINAL\GUI assignment\obj\Debug\GUI assignment.application
+C:\Users\Kasper\source\repos\17014182-GUI\GUI assignment\bin\Debug\GUI assignment.exe.config
+C:\Users\Kasper\source\repos\17014182-GUI\GUI assignment\bin\Debug\GUI assignment.exe.manifest
+C:\Users\Kasper\source\repos\17014182-GUI\GUI assignment\bin\Debug\GUI assignment.application
+C:\Users\Kasper\source\repos\17014182-GUI\GUI assignment\bin\Debug\GUI assignment.exe
+C:\Users\Kasper\source\repos\17014182-GUI\GUI assignment\bin\Debug\GUI assignment.pdb
+C:\Users\Kasper\source\repos\17014182-GUI\GUI assignment\obj\Debug\GUI assignment.csprojResolveAssemblyReference.cache
+C:\Users\Kasper\source\repos\17014182-GUI\GUI assignment\obj\Debug\GUI_assignment.Form1.resources
+C:\Users\Kasper\source\repos\17014182-GUI\GUI assignment\obj\Debug\GUI_assignment.Properties.Resources.resources
+C:\Users\Kasper\source\repos\17014182-GUI\GUI assignment\obj\Debug\GUI assignment.csproj.GenerateResource.cache
+C:\Users\Kasper\source\repos\17014182-GUI\GUI assignment\obj\Debug\GUI assignment.csproj.CoreCompileInputs.cache
+C:\Users\Kasper\source\repos\17014182-GUI\GUI assignment\obj\Debug\GUI assignment.exe.manifest
+C:\Users\Kasper\source\repos\17014182-GUI\GUI assignment\obj\Debug\GUI assignment.application
+C:\Users\Kasper\source\repos\17014182-GUI\GUI assignment\obj\Debug\GUI assignment.exe
+C:\Users\Kasper\source\repos\17014182-GUI\GUI assignment\obj\Debug\GUI assignment.pdb
